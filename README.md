@@ -1,23 +1,17 @@
 # Italewa
 
-## Product story
+## A clearer way to choose a place for an event
 
-Italewa is a platform for event centers, creative galleries, and guest experiences. It helps teams present their spaces, coordinate the guest journey, and turn interest into memorable visits and events.
+Finding the right place for an event can take too much back-and-forth. Details live in different places. The best spaces are often hard to compare.
 
-The product is used by event-center operators, gallery and creative-space teams, hospitality partners, and guests looking for distinctive places and experiences. Deen is the founder and builder at Seven Hundred Percent, shaping Italewa from product direction through delivery.
+Italewa gives event centers, galleries, and other creative spaces a clear place to show what they offer. Guests can browse spaces, understand the feel of a venue, and decide whether it fits their event.
 
-## Business outcomes
+For venue teams, the goal is simple: present the space well and turn the right interest into a useful conversation. For guests, it is a faster way to find a place that feels right.
 
-Italewa helps venues communicate their value clearly, improve discovery and inquiry quality, and create a more consistent guest experience. Its positioning is focused on practical business impact: helping distinctive spaces get found, considered, and experienced.
+Italewa is a live product at [italewa.com](https://italewa.com).
 
-Visit the live product: [italewa.com](https://italewa.com)
+Deen founded and built Italewa through **Seven Hundred Percent**, working from **Abuja · New York · London**.
 
-> Source code and system internals are private. This repository is a public case study only.
+Source code and system internals are private. This repository tells the product story only.
 
-## Contact
-
-For inquiries, contact [contact@italewa.com](mailto:contact@italewa.com).
-
-## Scope
-
-This repository contains product storytelling for hiring and investor conversations. It intentionally does not include implementation details or private operational material.
+For questions: [contact@italewa.com](mailto:contact@italewa.com).
