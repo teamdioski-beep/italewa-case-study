@@ -1,14 +1,16 @@
 # Italewa
 
-## A clearer way to choose a place for an event
+## Guests leave with the photos they're in
 
-Finding the right place for an event can take too much back-and-forth. Details live in different places. The best spaces are often hard to compare.
+At a wedding or a night out, hundreds of photos get taken, and most guests never see the ones they're in. Finding them later means scrolling a huge shared folder or waiting on the photographer.
 
-Italewa gives event centers, galleries, and other creative spaces a clear place to show what they offer. Guests can browse spaces, understand the feel of a venue, and decide whether it fits their event.
+Italewa fixes that at the event. Guests open a QR code on a stand, an invite, or a screen. After they agree, a face scan pulls up the frames that include them, group shots too, and they save their copies on their own phone while the gallery is open.
 
-For venue teams, the goal is simple: present the space well and turn the right interest into a useful conversation. For guests, it is a faster way to find a place that feels right.
+Photographers and creatives host one gallery per event. They publish it, decide when it goes live, and keep the event package. Previews stay watermarked until a guest matches, and the clean HD file comes after.
 
-Italewa is a live product at [italewa.com](https://italewa.com).
+Face search is optional and starts only after consent. A scan isn't kept as a profile, and face records for an event are removed when its gallery closes. Italewa follows the Nigeria Data Protection Act 2023.
+
+Italewa is live at [italewa.com](https://italewa.com).
 
 Deen founded and built Italewa through **Seven Hundred Percent**, working from **Abuja · New York · London**.
 
